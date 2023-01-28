@@ -1,0 +1,14 @@
+.flex-allcenter{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.t-align{
+    text-align: center;
+}
+
+.margin1{
+    margin-top:8px;
+    margin-bottom: 4px;
+}
